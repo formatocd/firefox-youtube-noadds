@@ -10,7 +10,10 @@
     "scripting"
   ],
   "background": {
-    "scripts": ["background.js"]
+    "scripts": [
+      "browser-polyfill.min.js",
+      "background.js"
+    ]
   },
   "icons": {
     "48": "assets/yna_48.png",
@@ -18,10 +21,5 @@
     "128": "assets/yna_128.png"
   },
   "action": {
-  },
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "youtube-no-adds@formatocd.es"
-    }
   }
 }
