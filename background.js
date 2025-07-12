@@ -26,10 +26,7 @@ async function handleExtensionClick() {
         // Inject the content script only when needed
         await browser.scripting.executeScript({
           target: { tabId: currentTab.id },
-          files: [
-            "browser-polyfill.min.js",
-            "content.js"
-          ],
+          files: ["content.js"],
         });
 
         await browser.action.disable(currentTab.id);
