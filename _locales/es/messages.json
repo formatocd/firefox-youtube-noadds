@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Youtube No Adds",
+    "description": "El nombre de la extensión."
+  },
+  "extensionDescription": {
+    "message": "Ver vídeos de youtube sin anuncios",
+    "description": "La descripción de la extensión."
+  },
+  "invalidUrlMessage": {
+    "message": "La URL actual no es válida para esta extensión.",
+    "description": "Mensaje mostrado cuando la URL no es una página de vídeo de YouTube."
+  }
+}

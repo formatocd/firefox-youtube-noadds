@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "version": "1.0",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "es",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "scripting"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "48": "assets/yna_48.png",
+    "64": "assets/yna_64.png",
+    "128": "assets/yna_128.png"
+  },
+  "action": {
+    "default_popup": null  
+  }
+}
