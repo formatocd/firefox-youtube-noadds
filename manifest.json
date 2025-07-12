@@ -20,12 +20,5 @@
     "64": "assets/yna_64.png",
     "128": "assets/yna_128.png"
   },
-  "action": {
-    "default_popup": null  
-  },
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "youtube-no-adds@formatocd.es"
-    }
-  }
+  "action": {}
 }
