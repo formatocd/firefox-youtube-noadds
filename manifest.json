@@ -19,5 +19,10 @@
   },
   "action": {
     "default_popup": null  
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "youtube-no-adds@formatocd.es"
+    }
   }
 }
