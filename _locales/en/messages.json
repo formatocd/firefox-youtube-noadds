@@ -1,10 +1,10 @@
 {
   "extensionName": {
-    "message": "YouTube No Adds",
+    "message": "YouTube No Ads",
     "description": "The name of the extension."
   },
   "extensionDescription": {
-    "message": "Watch YouTube videos without ads",
+    "message": "Watch YouTube videos in a new tab without ads",
     "description": "The description of the extension."
   },
   "invalidUrlMessage": {

@@ -1,0 +1,16 @@
+.yna-icon-link {
+  /* Evita que el enlace ocupe su propia línea */
+  display: inline-block;
+  /* Añade un pequeño espacio entre el enlace original y el icono */
+  margin-left: 5px;
+  /* Alinea el icono verticalmente con el texto */
+  vertical-align: middle;
+  /* Evita un doble subrayado al pasar el ratón */
+  text-decoration: none;
+}
+
+.yna-icon-image {
+  width: 16px;
+  height: 16px;
+  border: 0;
+}
